@@ -23,7 +23,7 @@ Passionate Computer Science student and developer focused on **Data Science**, *
 ### 🌐 Socials
 
 <p align="left">
-  <a href="https://linkedin.com/in/Minteeq-ahmed" target="_blank">
+  <a href="https://www.linkedin.com/in/minteeq-ahmed-805156430" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/minteeqahmed" target="_blank">
