@@ -77,13 +77,13 @@ Passionate Computer Science student and developer focused on **Data Science**, *
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 Hybrid Wired & Wireless Network Simulation</h3>
-      <p>A comprehensive Cisco Packet Tracer simulation implementing DHCP services, routing, and access point integration across hybrid subnets.</p>
+      <h3>📧 Email Sender & Leads Finder</h3>
+      <p>Automated workflow tool designed to extract target contact leads and handle automated email dispatch pipelines efficiently.</p>
       <ul>
-        <li><b>Tech:</b> Cisco Packet Tracer, TCP/IP, DHCP, Switching</li>
-        <li><b>Key Highlight:</b> Reliable host addressing, segmented subnets, and throughput optimization.</li>
+        <li><b>Tech:</b> Python, Web Scraping, SMTP Automation</li>
+        <li><b>Key Highlight:</b> Targeted lead extraction, dynamic message dispatch, and batch execution.</li>
       </ul>
-      <a href="https://github.com/minteeqahmed-png">View Repository →</a>
+      <a href="https://github.com/minteeqahmed-png/Email-sender-and-leads-finder">View Repository →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🕷️ Automated Web Scraping & Data Pipeline</h3>
@@ -97,20 +97,20 @@ Passionate Computer Science student and developer focused on **Data Science**, *
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>🌐 Hybrid Wired & Wireless Network Simulation</h3>
+      <p>A comprehensive Cisco Packet Tracer simulation implementing DHCP services, routing, and access point integration across hybrid subnets.</p>
+      <ul>
+        <li><b>Tech:</b> Cisco Packet Tracer, TCP/IP, DHCP, Switching</li>
+        <li><b>Key Highlight:</b> Reliable host addressing, segmented subnets, and throughput optimization.</li>
+      </ul>
+      <a href="https://github.com/minteeqahmed-png">View Repository →</a>
+    </td>
+    <td width="50%" valign="top">
       <h3>⚙️ 8086 Low-Level Algorithms</h3>
       <p>A collection of 16-bit Assembly programs exploring CPU architecture, register management, and direct memory addressing.</p>
       <ul>
         <li><b>Tech:</b> EMU8086, 16-bit Assembly, CPU Flags</li>
         <li><b>Key Highlight:</b> Low-overhead arithmetic operations, string manipulation, and branch control.</li>
-      </ul>
-      <a href="https://github.com/minteeqahmed-png">View Repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💻 C++ File Handling & Data Systems</h3>
-      <p>Console-based application featuring dynamic sorting, linear/binary search algorithms, and persistent binary/text file handling.</p>
-      <ul>
-        <li><b>Tech:</b> C++, File I/O, Algorithms, Data Structures</li>
-        <li><b>Key Highlight:</b> Efficient record storage, sorting mechanisms, and modular architecture.</li>
       </ul>
       <a href="https://github.com/minteeqahmed-png">View Repository →</a>
     </td>
