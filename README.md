@@ -163,7 +163,12 @@ Passionate Computer Science builder and developer focused on **AI Agent Security
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=minteeqahmed-png&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=minteeqahmed-png&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
+### 🏅 Key Engineering Achievements
+
+| Milestone | Impact & Technical Proof | Repository |
+| :--- | :--- | :--- |
+| ⚡ **99.72% MCP Context Token Reduction** | Engineered a 2-tool (`search` + `execute`) Code Mode MCP gateway that compresses 500-endpoint OpenAPI tool schemas from **76,863 tokens down to 218 tokens**. | [Codemode](https://github.com/minteeqahmed-png/Codemode) |
+| 🛡️ **Sub-Second MCP Security & AST Firewall** | Built a zero-dependency Python AST analyzer, live JSON-RPC subprocess prober, and stdio firewall that catches tool poisoning, Trojan Source Unicode, and rug-pulls in **< 1s**. | [MCP-Shield](https://github.com/minteeqahmed-png/MCP-Shield-) |
+| 🤖 **Self-Maintaining Autonomous CI Pipeline** | Designed a closed-loop GitHub Actions + Google Jules governance engine with automated codebase triage, Draft-to-Ready PR promotion, and a **24-hour issue-timer auto-merge** system. | [Codemode](https://github.com/minteeqahmed-png/Codemode) |
+| 🧠 **Privacy-First Multimodal Recall Engine** | Architected a local-first screenshot and PDF indexing pipeline with automated outbound API-key redaction and grounded Gemini Vision retrieval. | [ContextOS](https://github.com/minteeqahmed-png/ContextOS) |
+| 🏭 **Zero-Defect Manufacturing Verification** | Created an AMD GPU-accelerated LLM judge pipeline that cross-audits customer messages, PDFs, and spreadsheets to catch order discrepancies before production. | [SpecGuard AI](https://github.com/minteeqahmed-png/Specguard-ai) |
