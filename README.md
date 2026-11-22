@@ -173,20 +173,13 @@
 ## &lt; UPLINK.CHANNELS &gt;
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/minteeq-ahmed-805156430">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0891b2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b192c" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/minteeqahmed">
-    <img src="https://img.shields.io/badge/X_/_TWITTER-FOLLOW-0891b2?style=for-the-badge&logo=x&logoColor=white&labelColor=0b192c" alt="X" />
-  </a>
-  <a href="mailto:minteeqahmed@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-UPLINK-0891b2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b192c" alt="Email" />
-  </a>
-  <a href="https://github.com/minteeqahmed-png/my-portfolio-">
-    <img src="https://img.shields.io/badge/PORTFOLIO-LAUNCH-0891b2?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0b192c" alt="Portfolio" />
-  </a>
+  <a href="https://www.linkedin.com/in/minteeq-ahmed-805156430"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0891b2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b192c" alt="LinkedIn" /></a>
+  <a href="https://x.com/minteeqahmed"><img src="https://img.shields.io/badge/X_/_TWITTER-FOLLOW-0891b2?style=for-the-badge&logo=x&logoColor=white&labelColor=0b192c" alt="X" /></a>
+  <a href="mailto:minteeqahmed@gmail.com"><img src="https://img.shields.io/badge/EMAIL-UPLINK-0891b2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b192c" alt="Email" /></a>
+  <a href="https://github.com/minteeqahmed-png/my-portfolio-"><img src="https://img.shields.io/badge/PORTFOLIO-LAUNCH-0891b2?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0b192c" alt="Portfolio" /></a>
   <br/><br/>
-  <blockquote>"First, solve the problem. Then, write the code." — John Johnson</blockquote>
+  <i>"First, solve the problem. Then, write the code." — John Johnson</i>
+  <br/><br/>
   <sub>★ star this repo to sync with my timeline ★</sub>
   <br/><br/>
   <img src="./assets/footer.svg" width="100%" alt="Footer Bar" />
